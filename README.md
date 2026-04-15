@@ -27,7 +27,7 @@
 
 ## News
 
-- **[2025.03.09]** We have updated our technical report with more experimental results.
+- **[2026.03.09]** We have updated our technical report with more experimental results.
 
 - **[2025.12.16]** We have released our [technical report](https://arxiv.org/abs/2512.13687) and [pretrained weights](#get-checkpoints).
 
